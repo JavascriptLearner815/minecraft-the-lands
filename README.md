@@ -20,4 +20,4 @@
     You can also create a new issue on this GitHub project in order to contact us about your concerns.
 -->
 # minecraft-the-lands
-A Minecraft story I made.
+A Minecraft story I made. No warranty for any purpose.
